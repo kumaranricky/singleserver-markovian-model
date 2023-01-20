@@ -1,6 +1,4 @@
-# EXP. NO: 07
 
-# DATE: 
 
 
 # <p align = "center"> Single seriver infinite capacity - Markovian Model </p>
